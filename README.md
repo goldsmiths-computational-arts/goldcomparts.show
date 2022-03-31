@@ -4,7 +4,7 @@ This repo exists to redirect to the current year's website.
 
 ## Current site
 
-* http://third.goldcomparts.show/
+* https://ephemerence.goldcomparts.show/
 
 ## Creating a new site
 
